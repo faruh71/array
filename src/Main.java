@@ -14,8 +14,7 @@ public class Main {
         int[] weinght = new int[]{1, 2, 3};
         double[] weinght2 = {1.57, 7.654, 9.986};
         char[] cha = {'a', 'b', 'c', 'd'};
-        //       String [] s =new String[10];
-        //     int[]nubers = new  int[10];
+
         for (int i = 0; i < weinght.length; i++) {
             if (i > 0) {
                 System.out.print(",");
